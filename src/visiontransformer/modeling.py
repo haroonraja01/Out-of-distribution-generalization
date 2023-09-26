@@ -21,7 +21,10 @@ from scipy import ndimage
 
 #from .modeling_resnet import ResNetV2
 
+# Relative path giving error again
 from . import configs
+#import configs
+
 
 logger = logging.getLogger(__name__)
 

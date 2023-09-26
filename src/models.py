@@ -11,8 +11,11 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torchvision.models as models
-from .resnet_cifar import ResNet18 
-from .visiontransformer.modeling import VisionTransformer, CONFIGS, np2th
+# relative paths are giving errors in jupyter
+#from .resnet_cifar import ResNet18
+from resnet_cifar import ResNet18
+#from .visiontransformer.modeling import VisionTransformer, CONFIGS, np2th
+from visiontransformer.modeling import VisionTransformer, CONFIGS, np2th
 import math
 
 # copied from https://github.com/facebookresearch/vissl/blob/9551cfb490704ac151b2067b43ea595cda1adf4b/vissl/models/model_helpers.py#L38
