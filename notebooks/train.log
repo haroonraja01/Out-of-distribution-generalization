@@ -1,0 +1,609 @@
+INFO - 09/26/23 20:13:12 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 20:13:12 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 20:13:12 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 20:16:17 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 20:16:17 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 20:16:17 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 20:17:07 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 20:17:07 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 20:17:07 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 20:17:49 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 20:17:49 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 20:17:49 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:04:15 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:04:15 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:04:15 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:04:53 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:04:53 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:04:53 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:04:53 - 0:00:00 - Building data done
+INFO - 09/26/23 21:06:11 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:06:11 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:06:11 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:06:11 - 0:00:00 - Building data done
+INFO - 09/26/23 21:06:12 - 0:00:01 - Load pretrained model with msg: model is initialized without loading weights
+INFO - 09/26/23 21:06:12 - 0:00:01 - classifier RegLog(
+                                       (linear): Linear(in_features=2048, out_features=1000, bias=True)
+                                     )
+INFO - 09/26/23 21:06:36 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:06:36 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:06:36 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:06:36 - 0:00:00 - Building data done
+INFO - 09/26/23 21:08:32 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:08:32 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:08:32 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:08:32 - 0:00:00 - Building data done
+INFO - 09/26/23 21:08:32 - 0:00:01 - Load pretrained model with msg: model is initialized without loading weights
+INFO - 09/26/23 21:08:32 - 0:00:01 - classifier RegLog(
+                                       (linear): Linear(in_features=2048, out_features=1000, bias=True)
+                                     )
+INFO - 09/26/23 21:12:14 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:12:14 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:12:14 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:12:14 - 0:00:00 - Building data done
+INFO - 09/26/23 21:12:15 - 0:00:01 - Load pretrained model with msg: model is initialized without loading weights
+INFO - 09/26/23 21:12:15 - 0:00:01 - classifier RegLog(
+                                       (linear): Linear(in_features=2048, out_features=1000, bias=True)
+                                     )
+INFO - 09/26/23 21:13:47 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:13:47 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:13:47 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:13:47 - 0:00:00 - Building data done
+INFO - 09/26/23 21:13:48 - 0:00:01 - Load pretrained model with msg: model is initialized without loading weights
+INFO - 09/26/23 21:13:48 - 0:00:01 - classifier RegLog(
+                                       (linear): Linear(in_features=2048, out_features=1000, bias=True)
+                                     )
+INFO - 09/26/23 21:13:48 - 0:00:01 - batchnorm parameters
+INFO - 09/26/23 21:13:48 - 0:00:01 - []
+INFO - 09/26/23 21:13:48 - 0:00:01 - classifier parameters
+INFO - 09/26/23 21:13:48 - 0:00:01 - ['linear.weight', 'linear.bias']
+INFO - 09/26/23 21:13:48 - 0:00:01 - backbone parameters
+INFO - 09/26/23 21:13:48 - 0:00:01 - []
+INFO - 09/26/23 21:13:48 - 0:00:01 - optimizer SGD (
+                                     Parameter Group 0
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 1
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 2
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     )
+INFO - 09/26/23 21:14:36 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:14:36 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:14:36 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:14:36 - 0:00:00 - Building data done
+INFO - 09/26/23 21:14:36 - 0:00:00 - Load pretrained model with msg: model is initialized without loading weights
+INFO - 09/26/23 21:14:36 - 0:00:00 - classifier RegLog(
+                                       (linear): Linear(in_features=2048, out_features=1000, bias=True)
+                                     )
+INFO - 09/26/23 21:14:36 - 0:00:00 - batchnorm parameters
+INFO - 09/26/23 21:14:36 - 0:00:01 - []
+INFO - 09/26/23 21:14:36 - 0:00:01 - classifier parameters
+INFO - 09/26/23 21:14:36 - 0:00:01 - ['linear.weight', 'linear.bias']
+INFO - 09/26/23 21:14:36 - 0:00:01 - backbone parameters
+INFO - 09/26/23 21:14:36 - 0:00:01 - []
+INFO - 09/26/23 21:14:36 - 0:00:01 - optimizer SGD (
+                                     Parameter Group 0
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 1
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 2
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     )
+INFO - 09/26/23 21:15:33 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:15:33 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:15:33 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:15:33 - 0:00:00 - Building data done
+INFO - 09/26/23 21:15:34 - 0:00:00 - Load pretrained model with msg: model is initialized without loading weights
+INFO - 09/26/23 21:15:34 - 0:00:01 - classifier RegLog(
+                                       (linear): Linear(in_features=2048, out_features=1000, bias=True)
+                                     )
+INFO - 09/26/23 21:15:34 - 0:00:01 - batchnorm parameters
+INFO - 09/26/23 21:15:34 - 0:00:01 - []
+INFO - 09/26/23 21:15:34 - 0:00:01 - classifier parameters
+INFO - 09/26/23 21:15:34 - 0:00:01 - ['linear.weight', 'linear.bias']
+INFO - 09/26/23 21:15:34 - 0:00:01 - backbone parameters
+INFO - 09/26/23 21:15:34 - 0:00:01 - []
+INFO - 09/26/23 21:15:34 - 0:00:01 - optimizer SGD (
+                                     Parameter Group 0
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 1
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 2
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     )
+INFO - 09/26/23 21:15:34 - 0:00:01 - lr scheduler <torch.optim.lr_scheduler.MultiStepLR object at 0x7f81a5539c30>
+INFO - 09/26/23 21:15:34 - 0:00:01 - cuda deterministic
+INFO - 09/26/23 21:15:34 - 0:00:01 - ============ Starting epoch 0 ... ============
+INFO - 09/26/23 21:17:54 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:17:54 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:17:54 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:17:54 - 0:00:00 - Building data done
+INFO - 09/26/23 21:17:54 - 0:00:01 - Load pretrained model with msg: model is initialized without loading weights
+INFO - 09/26/23 21:17:55 - 0:00:01 - classifier RegLog(
+                                       (linear): Linear(in_features=2048, out_features=1000, bias=True)
+                                     )
+INFO - 09/26/23 21:17:55 - 0:00:01 - batchnorm parameters
+INFO - 09/26/23 21:17:55 - 0:00:01 - []
+INFO - 09/26/23 21:17:55 - 0:00:01 - classifier parameters
+INFO - 09/26/23 21:17:55 - 0:00:01 - ['linear.weight', 'linear.bias']
+INFO - 09/26/23 21:17:55 - 0:00:01 - backbone parameters
+INFO - 09/26/23 21:17:55 - 0:00:01 - []
+INFO - 09/26/23 21:17:55 - 0:00:01 - optimizer SGD (
+                                     Parameter Group 0
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 1
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 2
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     )
+INFO - 09/26/23 21:17:55 - 0:00:01 - lr scheduler <torch.optim.lr_scheduler.MultiStepLR object at 0x7f81a5502a10>
+INFO - 09/26/23 21:17:55 - 0:00:01 - cuda deterministic
+INFO - 09/26/23 21:17:55 - 0:00:01 - ============ Starting epoch 0 ... ============
+INFO - 09/26/23 21:18:26 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:18:26 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:18:26 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:18:26 - 0:00:00 - Building data done
+INFO - 09/26/23 21:18:26 - 0:00:00 - Load pretrained model with msg: model is initialized without loading weights
+INFO - 09/26/23 21:18:26 - 0:00:00 - classifier RegLog(
+                                       (linear): Linear(in_features=2048, out_features=1000, bias=True)
+                                     )
+INFO - 09/26/23 21:18:26 - 0:00:00 - batchnorm parameters
+INFO - 09/26/23 21:18:26 - 0:00:00 - []
+INFO - 09/26/23 21:18:26 - 0:00:00 - classifier parameters
+INFO - 09/26/23 21:18:26 - 0:00:00 - ['linear.weight', 'linear.bias']
+INFO - 09/26/23 21:18:26 - 0:00:00 - backbone parameters
+INFO - 09/26/23 21:18:26 - 0:00:00 - []
+INFO - 09/26/23 21:18:26 - 0:00:00 - optimizer SGD (
+                                     Parameter Group 0
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 1
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 2
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     )
+INFO - 09/26/23 21:18:26 - 0:00:00 - lr scheduler <torch.optim.lr_scheduler.MultiStepLR object at 0x7f81a5443370>
+INFO - 09/26/23 21:18:26 - 0:00:00 - cuda deterministic
+INFO - 09/26/23 21:18:27 - 0:00:00 - ============ Starting epoch 0 ... ============
+INFO - 09/26/23 21:21:27 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:21:27 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:21:27 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:21:27 - 0:00:00 - Building data done
+INFO - 09/26/23 21:21:28 - 0:00:00 - Load pretrained model with msg: model is initialized without loading weights
+INFO - 09/26/23 21:21:28 - 0:00:00 - classifier RegLog(
+                                       (linear): Linear(in_features=2048, out_features=1000, bias=True)
+                                     )
+INFO - 09/26/23 21:21:28 - 0:00:00 - batchnorm parameters
+INFO - 09/26/23 21:21:28 - 0:00:00 - []
+INFO - 09/26/23 21:21:28 - 0:00:00 - classifier parameters
+INFO - 09/26/23 21:21:28 - 0:00:00 - ['linear.weight', 'linear.bias']
+INFO - 09/26/23 21:21:28 - 0:00:00 - backbone parameters
+INFO - 09/26/23 21:21:28 - 0:00:00 - []
+INFO - 09/26/23 21:21:28 - 0:00:00 - optimizer SGD (
+                                     Parameter Group 0
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 1
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 2
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     )
+INFO - 09/26/23 21:21:28 - 0:00:01 - lr scheduler <torch.optim.lr_scheduler.MultiStepLR object at 0x7f81a60dcc10>
+INFO - 09/26/23 21:21:28 - 0:00:01 - cuda deterministic
+INFO - 09/26/23 21:21:28 - 0:00:01 - ============ Starting epoch 0 ... ============
+INFO - 09/26/23 21:26:08 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:26:08 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:26:08 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:26:08 - 0:00:00 - Building data done
+INFO - 09/26/23 21:31:06 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:31:06 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:31:06 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:31:06 - 0:00:00 - Building data done
+INFO - 09/26/23 21:31:07 - 0:00:01 - Load pretrained model with msg: None
+INFO - 09/26/23 21:31:07 - 0:00:01 - classifier RegLog(
+                                       (linear): Linear(in_features=512, out_features=1000, bias=True)
+                                     )
+INFO - 09/26/23 21:31:07 - 0:00:01 - batchnorm parameters
+INFO - 09/26/23 21:31:07 - 0:00:01 - []
+INFO - 09/26/23 21:31:07 - 0:00:01 - classifier parameters
+INFO - 09/26/23 21:31:07 - 0:00:01 - ['linear.weight', 'linear.bias']
+INFO - 09/26/23 21:31:07 - 0:00:01 - backbone parameters
+INFO - 09/26/23 21:31:07 - 0:00:01 - []
+INFO - 09/26/23 21:31:07 - 0:00:01 - optimizer SGD (
+                                     Parameter Group 0
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 1
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 2
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     )
+INFO - 09/26/23 21:31:07 - 0:00:01 - lr scheduler <torch.optim.lr_scheduler.MultiStepLR object at 0x7f81a580ceb0>
+INFO - 09/26/23 21:31:07 - 0:00:01 - cuda deterministic
+INFO - 09/26/23 21:31:07 - 0:00:01 - ============ Starting epoch 0 ... ============
+INFO - 09/26/23 21:36:51 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:36:51 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:36:51 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:37:20 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:37:20 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:37:20 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:37:20 - 0:00:00 - Building data done
+INFO - 09/26/23 21:37:20 - 0:00:01 - Load pretrained model with msg: None
+INFO - 09/26/23 21:52:56 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:52:56 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:52:56 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:52:56 - 0:00:00 - Building data done
+INFO - 09/26/23 21:52:56 - 0:00:01 - Load pretrained model with msg: None
+INFO - 09/26/23 21:52:56 - 0:00:01 - classifier RegLog(
+                                       (linear): Linear(in_features=512, out_features=2, bias=True)
+                                     )
+INFO - 09/26/23 21:52:56 - 0:00:01 - batchnorm parameters
+INFO - 09/26/23 21:52:56 - 0:00:01 - []
+INFO - 09/26/23 21:52:56 - 0:00:01 - classifier parameters
+INFO - 09/26/23 21:52:56 - 0:00:01 - ['linear.weight', 'linear.bias']
+INFO - 09/26/23 21:52:56 - 0:00:01 - backbone parameters
+INFO - 09/26/23 21:52:56 - 0:00:01 - []
+INFO - 09/26/23 21:52:56 - 0:00:01 - optimizer SGD (
+                                     Parameter Group 0
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 1
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 2
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     )
+INFO - 09/26/23 21:52:56 - 0:00:01 - lr scheduler <torch.optim.lr_scheduler.MultiStepLR object at 0x7f81a5277e80>
+INFO - 09/26/23 21:52:56 - 0:00:01 - cuda deterministic
+INFO - 09/26/23 21:52:56 - 0:00:01 - ============ Starting epoch 0 ... ============
+DEBUG - 09/26/23 21:52:56 - 0:00:01 - tag: ImageDescription (270) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'OLYMPUS DIGITAL CAMERA         \x00'
+DEBUG - 09/26/23 21:52:56 - 0:00:01 - tag: Make (271) - type: string (2) Tag Location: 34 - Data Location: 166 - value: b'OLYMPUS OPTICAL CO.,LTD\x00'
+DEBUG - 09/26/23 21:52:56 - 0:00:01 - tag: Model (272) - type: string (2) Tag Location: 46 - Data Location: 190 - value: b'C300Z,D550Z\x00'
+DEBUG - 09/26/23 21:52:56 - 0:00:01 - tag: XResolution (282) - type: rational (5) Tag Location: 58 - Data Location: 202 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+DEBUG - 09/26/23 21:52:56 - 0:00:01 - tag: YResolution (283) - type: rational (5) Tag Location: 70 - Data Location: 210 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+DEBUG - 09/26/23 21:52:56 - 0:00:01 - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+DEBUG - 09/26/23 21:52:56 - 0:00:01 - tag: Software (305) - type: string (2) Tag Location: 94 - Data Location: 218 - value: b'v574p-74\x00'
+DEBUG - 09/26/23 21:52:56 - 0:00:01 - tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 228 - value: b'2005:08:16 15:22:18\x00'
+DEBUG - 09/26/23 21:52:56 - 0:00:01 - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x02\x00'
+DEBUG - 09/26/23 21:52:56 - 0:00:01 - tag: ExifIFD (34665) - type: long (4) - value: b'\xf8\x00\x00\x00'
+INFO - 09/26/23 21:54:29 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:54:29 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:54:29 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:54:29 - 0:00:00 - Building data done
+INFO - 09/26/23 21:54:30 - 0:00:00 - Load pretrained model with msg: None
+INFO - 09/26/23 21:54:30 - 0:00:00 - classifier RegLog(
+                                       (linear): Linear(in_features=512, out_features=2, bias=True)
+                                     )
+INFO - 09/26/23 21:54:30 - 0:00:00 - batchnorm parameters
+INFO - 09/26/23 21:54:30 - 0:00:00 - []
+INFO - 09/26/23 21:54:30 - 0:00:00 - classifier parameters
+INFO - 09/26/23 21:54:30 - 0:00:00 - ['linear.weight', 'linear.bias']
+INFO - 09/26/23 21:54:30 - 0:00:00 - backbone parameters
+INFO - 09/26/23 21:54:30 - 0:00:00 - []
+INFO - 09/26/23 21:54:30 - 0:00:00 - optimizer SGD (
+                                     Parameter Group 0
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 1
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 2
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     )
+INFO - 09/26/23 21:54:30 - 0:00:00 - lr scheduler <torch.optim.lr_scheduler.MultiStepLR object at 0x7f81a5e47580>
+INFO - 09/26/23 21:54:30 - 0:00:01 - cuda deterministic
+INFO - 09/26/23 21:54:30 - 0:00:01 - ============ Starting epoch 0 ... ============
+DEBUG - 09/26/23 21:54:30 - 0:00:01 - tag: ImageDescription (270) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'OLYMPUS DIGITAL CAMERA         \x00'
+DEBUG - 09/26/23 21:54:30 - 0:00:01 - tag: Make (271) - type: string (2) Tag Location: 34 - Data Location: 166 - value: b'OLYMPUS OPTICAL CO.,LTD\x00'
+DEBUG - 09/26/23 21:54:30 - 0:00:01 - tag: Model (272) - type: string (2) Tag Location: 46 - Data Location: 190 - value: b'C300Z,D550Z\x00'
+DEBUG - 09/26/23 21:54:30 - 0:00:01 - tag: XResolution (282) - type: rational (5) Tag Location: 58 - Data Location: 202 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+DEBUG - 09/26/23 21:54:30 - 0:00:01 - tag: YResolution (283) - type: rational (5) Tag Location: 70 - Data Location: 210 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+DEBUG - 09/26/23 21:54:30 - 0:00:01 - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+DEBUG - 09/26/23 21:54:30 - 0:00:01 - tag: Software (305) - type: string (2) Tag Location: 94 - Data Location: 218 - value: b'v574p-74\x00'
+DEBUG - 09/26/23 21:54:30 - 0:00:01 - tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 228 - value: b'2005:08:16 15:22:18\x00'
+DEBUG - 09/26/23 21:54:30 - 0:00:01 - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x02\x00'
+DEBUG - 09/26/23 21:54:30 - 0:00:01 - tag: ExifIFD (34665) - type: long (4) - value: b'\xf8\x00\x00\x00'
+INFO - 09/26/23 21:56:12 - 0:00:00 - ============ Initialized logger ============
+INFO - 09/26/23 21:56:12 - 0:00:00 - dump_checkpoints: ./checkpoints
+INFO - 09/26/23 21:56:12 - 0:00:00 - The experiment will be stored in .
+                                     
+
+INFO - 09/26/23 21:56:12 - 0:00:00 - Building data done
+INFO - 09/26/23 21:56:12 - 0:00:00 - Load pretrained model with msg: None
+INFO - 09/26/23 21:56:12 - 0:00:00 - classifier RegLog(
+                                       (linear): Linear(in_features=512, out_features=2, bias=True)
+                                     )
+INFO - 09/26/23 21:56:12 - 0:00:00 - batchnorm parameters
+INFO - 09/26/23 21:56:12 - 0:00:00 - []
+INFO - 09/26/23 21:56:12 - 0:00:00 - classifier parameters
+INFO - 09/26/23 21:56:12 - 0:00:00 - ['linear.weight', 'linear.bias']
+INFO - 09/26/23 21:56:12 - 0:00:00 - backbone parameters
+INFO - 09/26/23 21:56:12 - 0:00:00 - []
+INFO - 09/26/23 21:56:12 - 0:00:00 - optimizer SGD (
+                                     Parameter Group 0
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 1
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     
+                                     Parameter Group 2
+                                         dampening: 0
+                                         differentiable: False
+                                         foreach: None
+                                         lr: 0.01
+                                         maximize: False
+                                         momentum: 0.9
+                                         nesterov: False
+                                         weight_decay: 0.0005
+                                     )
+INFO - 09/26/23 21:56:12 - 0:00:00 - lr scheduler <torch.optim.lr_scheduler.MultiStepLR object at 0x7f81a606cf40>
+INFO - 09/26/23 21:56:12 - 0:00:00 - cuda deterministic
+INFO - 09/26/23 21:56:12 - 0:00:00 - ============ Starting epoch 0 ... ============
+DEBUG - 09/26/23 21:56:12 - 0:00:01 - tag: ImageDescription (270) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'OLYMPUS DIGITAL CAMERA         \x00'
+DEBUG - 09/26/23 21:56:12 - 0:00:01 - tag: Make (271) - type: string (2) Tag Location: 34 - Data Location: 166 - value: b'OLYMPUS OPTICAL CO.,LTD\x00'
+DEBUG - 09/26/23 21:56:12 - 0:00:01 - tag: Model (272) - type: string (2) Tag Location: 46 - Data Location: 190 - value: b'C300Z,D550Z\x00'
+DEBUG - 09/26/23 21:56:12 - 0:00:01 - tag: XResolution (282) - type: rational (5) Tag Location: 58 - Data Location: 202 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+DEBUG - 09/26/23 21:56:12 - 0:00:01 - tag: YResolution (283) - type: rational (5) Tag Location: 70 - Data Location: 210 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+DEBUG - 09/26/23 21:56:12 - 0:00:01 - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+DEBUG - 09/26/23 21:56:12 - 0:00:01 - tag: Software (305) - type: string (2) Tag Location: 94 - Data Location: 218 - value: b'v574p-74\x00'
+DEBUG - 09/26/23 21:56:12 - 0:00:01 - tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 228 - value: b'2005:08:16 15:22:18\x00'
+DEBUG - 09/26/23 21:56:12 - 0:00:01 - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x02\x00'
+DEBUG - 09/26/23 21:56:12 - 0:00:01 - tag: ExifIFD (34665) - type: long (4) - value: b'\xf8\x00\x00\x00'

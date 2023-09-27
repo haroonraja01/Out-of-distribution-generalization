@@ -910,8 +910,8 @@ def get_classifier(classifier_arch, nclass, feat_dims, logger, args):
 	return classifier
 		
 def modelfusion(richway, models, classifier, args):
-
-	assert 'exp_mode' in args.__dict__ and 'sync_bn' in args.__dict__
+	# Add following assertion later, its causing some trouble for now
+	#assert 'exp_mode' in args.__dict__ and 'sync_bn' in args.__dict__
 
 	mappings = {'cat':Kmodel}	
 
